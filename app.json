@@ -1,0 +1,8 @@
+{
+  "name": "ost-book-store",
+  "buildpacks": [
+    {
+      "url": "heroku/gradle"
+    }
+  ]
+}
